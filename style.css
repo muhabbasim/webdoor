@@ -102,7 +102,7 @@ a:hover:after {
 .header-btn1 {
   font-size: 18px;
   padding: 10px 20px;
-  /* border: 1px solid var(--clr-bl); */
+  /* border: 1px solid var(--clr-blk); */
   border: none;
   background-color: transparent;
   color: var(--clr-blk);
@@ -144,12 +144,12 @@ a:hover:after {
   display: flex;
   align-items: center;
   justify-content: space-around;
-  gap: 20px;
+  gap: 90px;
   text-align: end;
 
 }
 .hero h1 {
-  font-size: 50px;
+  font-size: 60px;
   font-family: marion bold;
   color: var(--clr-gn);
 }
@@ -159,7 +159,7 @@ a:hover:after {
 .hero .p2 {
   max-width: 500px;
   margin: 0;
-  font-size: 20px;
+  font-size: 30px;
 }
 .start-btn {
   padding: 10px 30px;
@@ -171,8 +171,7 @@ a:hover:after {
   cursor: pointer;
   margin-top: 30px;
   box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
-  transition: .5s ease-in-out;
-
+  transition: .3s ease-in-out;
 }
 .start-btn:hover {
   background-color: var(--clr-gn);
