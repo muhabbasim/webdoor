@@ -162,7 +162,7 @@ a:hover:after {
   font-size: 30px;
 }
 .start-btn {
-  padding: 10px 30px;
+  padding: 10px 40px;
   background-color: var(--clr-blk);
   border: none;
   border-radius: 25px;
