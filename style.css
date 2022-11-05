@@ -213,6 +213,7 @@ a:hover:after {
   gap: 20px;
   justify-content: space-between;
   align-items: center;
+  text-align: end;
 }
 .element {
   max-width: 350px;
